@@ -1,0 +1,36 @@
+*{
+    padding:20px 20px;
+    background: #eee;
+}
+#left
+{
+   border:1px solid #999;
+    width:200px;
+    float:left;
+    position: relative;
+}
+img{
+    width:30px;
+    height:20px;
+    border: 1px solid #999999;
+    margin-left: 0px;
+    position: relative;
+}
+.team-name{
+    padding-top: 10px;
+}
+#middle{
+    border: 1px solid #999999;
+    padding:20px 10px;
+    margin-left: 20px;
+    clear: both;
+    position: relative;
+    display: inline;
+    overflow: hidden;
+}
+#right{
+    border: 1px solid #999999;
+    width:120px;
+    display: inline;
+    position: relative;
+}
